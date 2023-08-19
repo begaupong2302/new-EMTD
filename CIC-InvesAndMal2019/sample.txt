@@ -1,0 +1,12 @@
+label                   1.000000
+ack_flag_count          0.059928
+urg_flag_count          0.057274
+down/up_ratio           0.020224
+fwd_psh_flags           0.013857
+                          ...   
+fwd_avg_packets/bulk         NaN
+fwd_avg_bulk_rate            NaN
+bwd_avg_bytes/bulk           NaN
+bwd_avg_packets/bulk         NaN
+bwd_avg_bulk_rate            NaN
+Name: label, Length: 81, dtype: float64
