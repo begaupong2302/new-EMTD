@@ -7,7 +7,7 @@ Android Malware Dataset (CIC-AndMal2017)
 Android Malware Dataset (CIC-AndMal2019)
 [Link](https://www.unb.ca/cic/datasets/invesandmal2019.html)
 
-MCFP 
+MCFP và CTU-13
 [Link](https://mcfp.felk.cvut.cz/publicDatasets/)
 
 ## Lựa chọn đặc trưng
