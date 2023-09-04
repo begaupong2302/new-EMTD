@@ -2,11 +2,9 @@ Malware Detection by HTTPS Traffic
 
 ## Dataset
 Android Malware Dataset (CIC-AndMal2017)
-
 [Link](https://www.unb.ca/cic/datasets/andmal2017.html)
 
 Android Malware Dataset (CIC-AndMal2019)
-
 [Link](https://www.unb.ca/cic/datasets/invesandmal2019.html)
 
 MCFP 
